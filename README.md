@@ -52,7 +52,7 @@ Demonstrates why direct and indirect addressing are not equivalent
 
 Shows different results despite referencing the same memory address
 
-Q4. PRN Digit Generation (Logical Instructions)
+Q4. P.NO Digit Generation (Logical Instructions)
 
 Generates the last four digits using logical instructions only
 
